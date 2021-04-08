@@ -1,5 +1,5 @@
 window.onload = function () {
-	let str = "I'm VIKRAM.";
+	let str = "Hello, I'm VIKRAM.";
 	let i = 0;
 	let curr = '';
 	typeWriter();
