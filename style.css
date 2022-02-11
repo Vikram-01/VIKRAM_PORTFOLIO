@@ -173,7 +173,7 @@ section .title::after{
     display: fixed;
     background:OldLace;
     height: 100vh;
-    color: #fff;
+    color: #A52A2A;
 	
     min-height: 500px;
     background-size: cover;
